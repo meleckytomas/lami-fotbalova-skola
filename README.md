@@ -2,6 +2,10 @@
 
 Jednoducha staticka vzdelavaci hra pro procvicovani matematiky, cestiny, anglictiny a prvouky.
 
+## Spustit hru
+
+[Otevrit aplikaci na GitHub Pages](https://meleckytomas.github.io/lami-fotbalova-skola/)
+
 ## Spusteni lokalne
 
 ```bash
